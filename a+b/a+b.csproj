@@ -7,7 +7,7 @@
     <ProjectGuid>{909D9512-6106-44A1-BBD5-E958ECE1EC45}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>a_b</RootNamespace>
-    <AssemblyName>a_b</AssemblyName>
+    <AssemblyName>a+b</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="a+b.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

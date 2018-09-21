@@ -7,7 +7,7 @@
     <ProjectGuid>{DCCBD12C-9E65-4E98-AE64-BCD61C0C8D1A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Знакомство_с_жителями_Сортлэнда</RootNamespace>
-    <AssemblyName>Знакомство_с_жителями_Сортлэнда</AssemblyName>
+    <AssemblyName>Знакомство с жителями Сортлэнда</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

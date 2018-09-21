@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Курс по алгоритмам ИТМО", "Курс по алгоритмам ИТМО\Курс по алгоритмам ИТМО.csproj", "{71A6B705-0F27-41AA-AC07-B6F0482845AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a+b^2", "Курс по алгоритмам ИТМО\a+b^2.csproj", "{71A6B705-0F27-41AA-AC07-B6F0482845AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "a+b", "a+b\a+b.csproj", "{909D9512-6106-44A1-BBD5-E958ECE1EC45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Сортировка вставками", "Сортировка вставками\Сортировка вставками.csproj", "{8AB1EA57-D613-4871-AEDB-E9FA2D1D72CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Знакомство с жителями Сортлэнда", "Знакомство с жителями Сортлэнда\Знакомство с жителями Сортлэнда.csproj", "{DCCBD12C-9E65-4E98-AE64-BCD61C0C8D1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Секретарь Своп", "Секретарь Своп\Секретарь Своп.csproj", "{94ACE277-C9C7-4DED-8012-590308E0C2E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{71A6B705-0F27-41AA-AC07-B6F0482845AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71A6B705-0F27-41AA-AC07-B6F0482845AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71A6B705-0F27-41AA-AC07-B6F0482845AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909D9512-6106-44A1-BBD5-E958ECE1EC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909D9512-6106-44A1-BBD5-E958ECE1EC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909D9512-6106-44A1-BBD5-E958ECE1EC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909D9512-6106-44A1-BBD5-E958ECE1EC45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB1EA57-D613-4871-AEDB-E9FA2D1D72CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB1EA57-D613-4871-AEDB-E9FA2D1D72CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB1EA57-D613-4871-AEDB-E9FA2D1D72CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB1EA57-D613-4871-AEDB-E9FA2D1D72CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCCBD12C-9E65-4E98-AE64-BCD61C0C8D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCCBD12C-9E65-4E98-AE64-BCD61C0C8D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCCBD12C-9E65-4E98-AE64-BCD61C0C8D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCCBD12C-9E65-4E98-AE64-BCD61C0C8D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94ACE277-C9C7-4DED-8012-590308E0C2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94ACE277-C9C7-4DED-8012-590308E0C2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94ACE277-C9C7-4DED-8012-590308E0C2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94ACE277-C9C7-4DED-8012-590308E0C2E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

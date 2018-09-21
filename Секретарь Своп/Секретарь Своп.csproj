@@ -7,7 +7,7 @@
     <ProjectGuid>{94ACE277-C9C7-4DED-8012-590308E0C2E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Секретарь_Своп</RootNamespace>
-    <AssemblyName>Секретарь_Своп</AssemblyName>
+    <AssemblyName>Секретарь Своп</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

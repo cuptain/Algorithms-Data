@@ -7,7 +7,7 @@
     <ProjectGuid>{8AB1EA57-D613-4871-AEDB-E9FA2D1D72CD}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Сортировка_вставками</RootNamespace>
-    <AssemblyName>Сортировка_вставками</AssemblyName>
+    <AssemblyName>Сортировка вставками</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
